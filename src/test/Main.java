@@ -75,6 +75,6 @@ public class Main {
 					+ "[allDay] = " + e.isAllDay());
 		}
 		t.commit();
-		System.out.println("Lecture de la table associé à Event : [OK]");
+		System.out.println("Lecture de la table associé à Event : [OK] ");
 	}
 }

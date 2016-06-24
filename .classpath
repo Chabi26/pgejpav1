@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/PGE JPA V2/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="/PGE JPA V2/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="/PGE JPA V2/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/PGE JPA V2/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="/PGE JPA V2/lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="/PGE JPA V2/lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="/PGE JPA V2/lib/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="/PGE JPA V2/lib/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="/PGE JPA V2/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="/PGE JPA V2/lib/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="/PGE JPA V2/lib/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="/PGE JPA V2/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="/PGE JPA V2/lib/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="lib" path="/PGE JPA V2/lib/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="/PGE JPA V2/lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="/PGE JPA V2/lib/slf4j-simple-1.5.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

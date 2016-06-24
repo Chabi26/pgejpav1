@@ -15,7 +15,7 @@ public class InitDB {
     	Transaction transaction = session.beginTransaction();
     	//Création d'un objet Event 	
     	Event e = new Event();
-    	e.setTitle("Titre de l'event 1");
+    	e.setTitle("Titre de l'event 4");
     	e.setDescription("Pour le lancement du nouveau single");
     	e.setBeginDate(new GregorianCalendar());
     	e.setAllDay(false);
